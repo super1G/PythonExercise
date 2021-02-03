@@ -19,3 +19,9 @@ for x in range(5): #range(5)=[0,1,2,3,4]
 
 for x in range(5,10): #range(5,10)=[5,6,7,8,9]
     print(x)
+
+sum=0
+for x in range(1,11): 
+    sum=sum+x
+    #print(x.'  '.sum)
+print(sum)
